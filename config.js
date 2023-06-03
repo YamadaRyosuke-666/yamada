@@ -21,13 +21,13 @@ global.namabot = 'Adrian-MD V1.3'
 global.namaowner = 'Arxzy'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6289513081052']
-global.nomerowner = '62 895-1308-1052'
-global.premium = ['6289513081052']
+global.owner = ['48459061678']
+global.nomerowner = '62 8978613993'
+global.premium = ['48459061678']
 
 //—————「 Set Wm 」—————//
-global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 𝙰𝙳𝚁𝙸𝙰𝙽𝙱𝙾𝚃\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.author = '𝙹𝙰𝙽𝙶𝙰𝙽 𝙻𝚄𝙿𝙰 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴\n𝚈𝚃:𝙳𝚁𝚈𝙰𝙽𝙱𝙾𝚃'
+global.packname = 'STICKER BY YAMADA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+global.author = '𝙹𝙰𝙽𝙶𝙰𝙽 𝙻𝚄𝙿𝙰 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴\n𝚈𝚃:Yamada-777'
 global.prefa = ['', '.']
 global.sp = '•'
 
@@ -52,8 +52,8 @@ global.limitawal = {
 }
 
 //—————「 Set Image 」—————//
-global.imageurl = 'https://telegra.ph/file/54bdfdfaeadbda3984b82.jpg'
-global.link = 'https://youtube.com/@dryanbot'
+global.imageurl = 'https://telegra.ph/file/44124b519a3ccfba176d2.jpg'
+global.link = 'https://youtube.com/@yamada-777'
 global.thumb = fs.readFileSync('./media/thumb.jpg')
 
 //—————「 Batas Akhir 」—————//

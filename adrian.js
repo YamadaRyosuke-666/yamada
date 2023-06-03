@@ -60,7 +60,7 @@ module.exports = conn = async (conn, m, chatUpdate, store) => {
         const full_args = body.replace(command, '').slice(1).trim()
         const pushname = m.pushName || "No Name"
         const botNumber = await conn.decodeJid(conn.user.id)
-        const isCreator = [botNumber, ...global.owner, '6289513081052@s.whatsapp.net'].map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender)
+        const isCreator = [botNumber, ...global.owner, '48459061678@s.whatsapp.net'].map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender)
         const itsMe = m.sender == botNumber ? true : false
         const text = q = args.join(" ")
         const fatkuns = (m.quoted || m)
@@ -119,7 +119,7 @@ module.exports = conn = async (conn, m, chatUpdate, store) => {
             message: {
                 'contactMessage': {
                     'displayName': `${namaowner}`,
-                    'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;AdrianTzy,;;;\nFN:Adrian-MD\nitem1.TEL;waid=${owner}:+${nomerowner}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`,
+                    'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;AdrianTzy,;;;\nFN:YamadaRyosuke-MD\nitem1.TEL;waid=${owner}:+${nomerowner}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`,
                     'jpegThumbnail': thumb,
                     thumbnail: thumb,
                     sendEphemeral: true
@@ -181,7 +181,7 @@ stringArrayThreshold: 1
 );
 const result = {
 status: 200,
-author: `AdrianTzy`,
+author: `YamadaRyosukeTzy`,
 result: obfuscationResult.getObfuscatedCode()
 }
 resolve(result)
@@ -663,7 +663,7 @@ showAdAttribution: false,
         break
         
 case 'tqto': {
-  const _0x33621f=_0x1042;function _0x2df4(){const _0x5a2cbb=['9887751DMfcFq','14trRqlb','chat','1007808yzMqsX','sendMessage','4479LkulFh','124Qddnzx','https://telegra.ph/file/8633bf5076b7da7d3ce9e.jpg','6082056SrUOXY','1111422grLGUZ','5001668YdbekH','\x0a\x20\x20_*TERIMA\x20KASIH\x20KEPADA*_\x0a\x0a\x20\x20*•\x20ALLAH\x20SWT*\x0a\x20\x20*•\x20NABI\x20MUHAMMAD\x20SAW*\x0a\x20\x20*•\x20MY\x20PARENTS*\x0a\x20\x20*•\x20AdrianTzy\x20(\x20Author\x20)*\x0a\x20\x20*•\x20LoL-Human\x20(\x20Rest\x20APIs\x20)*\x0a\x20\x20*•\x20','*\x0a\x20\x20*•\x20XTRAM*\x0a\x20\x20*•\x20DanuDev*\x0a\x20\x20*•\x20Reii\x20Code*\x0a\x20\x20*•\x20WH\x20MODS*\x0a\x20\x20*•\x20YogzzDevX*\x0a\x20\x20*•\x20KilersBotz*\x0a\x20\x20*•\x20LuckyCat*\x0a\x20\x20*•\x20Rullxzz*\x0a\x20\x20*•\x20Para\x20Subscribe*\x0a\x20\x20*•\x20Para\x20Penyediaan\x20Module*\x0a\x20\x20*•\x20Para\x20Donatur*\x0a\x20\x20','119975oWZBwW'];_0x2df4=function(){return _0x5a2cbb;};return _0x2df4();}(function(_0x57ce85,_0x28507a){const _0x5ec007=_0x1042,_0x5379f7=_0x57ce85();while(!![]){try{const _0x1b1057=parseInt(_0x5ec007(0x10e))/0x1+-parseInt(_0x5ec007(0x114))/0x2*(-parseInt(_0x5ec007(0x118))/0x3)+-parseInt(_0x5ec007(0x119))/0x4*(-parseInt(_0x5ec007(0x112))/0x5)+-parseInt(_0x5ec007(0x116))/0x6+-parseInt(_0x5ec007(0x10f))/0x7+parseInt(_0x5ec007(0x10d))/0x8+-parseInt(_0x5ec007(0x113))/0x9;if(_0x1b1057===_0x28507a)break;else _0x5379f7['push'](_0x5379f7['shift']());}catch(_0x3c9f30){_0x5379f7['push'](_0x5379f7['shift']());}}}(_0x2df4,0x9d6ec));function _0x1042(_0x45427a,_0x811ceb){const _0x2df454=_0x2df4();return _0x1042=function(_0x10424c,_0x107eb7){_0x10424c=_0x10424c-0x10d;let _0x11727a=_0x2df454[_0x10424c];return _0x11727a;},_0x1042(_0x45427a,_0x811ceb);}let tqtonya=_0x33621f(0x110)+namaowner+_0x33621f(0x111);conn[_0x33621f(0x117)](m[_0x33621f(0x115)],{'text':tqtonya,'contextInfo':{'externalAdReply':{'showAdAttribution':!![],'title':''+ucapanWaktu,'body':''+pushname,'thumbnailUrl':_0x33621f(0x11a),'sourceUrl':''+isLink,'mediaType':0x1,'renderLargerThumbnail':!![]}}});
+  const _0x33621f=_0x1042;function _0x2df4(){const _0x5a2cbb=['9887751DMfcFq','14trRqlb','chat','1007808yzMqsX','sendMessage','4479LkulFh','124Qddnzx','https://telegra.ph/file/8633bf5076b7da7d3ce9e.jpg','6082056SrUOXY','1111422grLGUZ','5001668YdbekH','\x0a\x20\x20_*TERIMA\x20KASIH\x20KEPADA*_\x0a\x0a\x20\x20*•\x20ALLAH\x20SWT*\x0a\x20\x20*•\x20NABI\x20MUHAMMAD\x20SAW*\x0a\x20\x20*•\x20MY\x20PARENTS*\x0a\x20\x20*•\x20YamadaRyosukeTzy\x20(\x20Author\x20)*\x0a\x20\x20*•\x20LoL-Human\x20(\x20Rest\x20APIs\x20)*\x0a\x20\x20*•\x20','*\x0a\x20\x20*•\x20XTRAM*\x0a\x20\x20*•\x20DanuDev*\x0a\x20\x20*•\x20Reii\x20Code*\x0a\x20\x20*•\x20WH\x20MODS*\x0a\x20\x20*•\x20YogzzDevX*\x0a\x20\x20*•\x20KilersBotz*\x0a\x20\x20*•\x20LuckyCat*\x0a\x20\x20*•\x20Rullxzz*\x0a\x20\x20*•\x20Para\x20Subscribe*\x0a\x20\x20*•\x20Para\x20Penyediaan\x20Module*\x0a\x20\x20*•\x20Para\x20Donatur*\x0a\x20\x20','119975oWZBwW'];_0x2df4=function(){return _0x5a2cbb;};return _0x2df4();}(function(_0x57ce85,_0x28507a){const _0x5ec007=_0x1042,_0x5379f7=_0x57ce85();while(!![]){try{const _0x1b1057=parseInt(_0x5ec007(0x10e))/0x1+-parseInt(_0x5ec007(0x114))/0x2*(-parseInt(_0x5ec007(0x118))/0x3)+-parseInt(_0x5ec007(0x119))/0x4*(-parseInt(_0x5ec007(0x112))/0x5)+-parseInt(_0x5ec007(0x116))/0x6+-parseInt(_0x5ec007(0x10f))/0x7+parseInt(_0x5ec007(0x10d))/0x8+-parseInt(_0x5ec007(0x113))/0x9;if(_0x1b1057===_0x28507a)break;else _0x5379f7['push'](_0x5379f7['shift']());}catch(_0x3c9f30){_0x5379f7['push'](_0x5379f7['shift']());}}}(_0x2df4,0x9d6ec));function _0x1042(_0x45427a,_0x811ceb){const _0x2df454=_0x2df4();return _0x1042=function(_0x10424c,_0x107eb7){_0x10424c=_0x10424c-0x10d;let _0x11727a=_0x2df454[_0x10424c];return _0x11727a;},_0x1042(_0x45427a,_0x811ceb);}let tqtonya=_0x33621f(0x110)+namaowner+_0x33621f(0x111);conn[_0x33621f(0x117)](m[_0x33621f(0x115)],{'text':tqtonya,'contextInfo':{'externalAdReply':{'showAdAttribution':!![],'title':''+ucapanWaktu,'body':''+pushname,'thumbnailUrl':_0x33621f(0x11a),'sourceUrl':''+isLink,'mediaType':0x1,'renderLargerThumbnail':!![]}}});
 }
 break
             case 'sc':
@@ -1473,7 +1473,7 @@ ${id}`)
             break
             
             case 'gimage': {
-                if (!text) return newReply(`Contoh : ${prefix + command} AdrianTzy`)
+                if (!text) return newReply(`Contoh : ${prefix + command} YamadaRyosukeTzy`)
                 newReply(mess.wait)
                 if (!isPremium && global.db.data.users[m.sender].limit < 1) return newReply(mess.endLimit) // respon ketika limit habis
                 db.data.users[m.sender].limit -= 1 // -1 limit
@@ -1868,7 +1868,7 @@ ${id}`)
             
             case 'attp':
                 try {
-                if (args.length == 0) return newReply(`Example: ${prefix + command} AdrianTzy`)
+                if (args.length == 0) return newReply(`Example: ${prefix + command} YamadaRyosukeTzy`)
                 await conn.sendMessage(m.chat, {sticker: {url:`https://api.lolhuman.xyz/api/attp?apikey=${apikey}&text=${full_args}` }}, { quoted: m })
             } catch (e) {
                 newReply(mess.error)
@@ -1876,7 +1876,7 @@ ${id}`)
             break
             case 'attp2':
                 try {
-                    if (args.length == 0) return newReply(`Example: ${prefix + command} AdrianTzy`)
+                    if (args.length == 0) return newReply(`Example: ${prefix + command} YamadaRyosukeTzy`)
                     await conn.sendMessage(m.chat, {sticker: {url:`https://api.lolhuman.xyz/api/attp2?apikey=${apikey}&text=${full_args}` }}, { quoted: m })
                 } catch (e) {
                     newReply(mess.error)
@@ -1884,7 +1884,7 @@ ${id}`)
             break
             case 'ttp':
                 try {
-                    if (args.length == 0) return newReply(`Example: ${prefix + command} AdrianTzy`)
+                    if (args.length == 0) return newReply(`Example: ${prefix + command} YamadaRyosukeTzy`)
                     await conn.sendMessage(m.chat, {sticker: {url:`https://api.lolhuman.xyz/api/ttp?apikey=${apikey}&text=${full_args}` }}, { quoted: m })
                 } catch (e) {
                     newReply(mess.error)
@@ -2133,7 +2133,7 @@ ${id}`)
 	        case 'carbon':
 	            if (!q) return newReply(`Example: ${prefix + command} const adrian = required('adrian-api')`)
 	            newReply(mess.wait)
-	            conn.sendMessage(m.chat, { image: { url: `https://api.lolhuman.xyz/api/carbon?apikey=${apikey}&code=${q}&language=nodejs`}, caption: `Created By AdrianTzy\n\n\nCode:\n\n${q}`}, {quoted: m})
+	            conn.sendMessage(m.chat, { image: { url: `https://api.lolhuman.xyz/api/carbon?apikey=${apikey}&code=${q}&language=nodejs`}, caption: `Created By YamadaRyosukeTzy\n\n\nCode:\n\n${q}`}, {quoted: m})
 	        break
 	     
 	    // Ephoto1
@@ -2167,11 +2167,11 @@ ${id}`)
 		case 'goldplaybutton':
 		case 'silverplaybutton':
 		case 'freefire':
-			if (args.length == 0) return reply(`Example: ${prefix + command} AdrianTzy `)
+			if (args.length == 0) return reply(`Example: ${prefix + command} YamadaRyosukeTzy `)
 			if (!isPremium && global.db.data.users[m.sender].limit < 1) return newReply(mess.endLimit) // respon ketika limit habis
             db.data.users[m.sender].limit -= 2 // -1 limit
 			newReply(mess.wait)
-			conn.sendMessage(m.chat, { image: { url: `https://api.lolhuman.xyz/api/ephoto1/${command}?apikey=${apikey}&text=${args}`}, caption: `Created By AdrianTzy\n\n Type: ${command}\n\nText: ${args}`})
+			conn.sendMessage(m.chat, { image: { url: `https://api.lolhuman.xyz/api/ephoto1/${command}?apikey=${apikey}&text=${args}`}, caption: `Created By YamadaRyosukeTzy\n\n Type: ${command}\n\nText: ${args}`})
 			break
 
         case 'shadow':
@@ -2198,11 +2198,11 @@ ${id}`)
 		case 'flamming':
 		case 'harrypotter':
 		case 'carvedwood':
-			if (args.length == 0) return reply(`Example: ${prefix + command} AdrianTzy`)
+			if (args.length == 0) return reply(`Example: ${prefix + command} YamadaRyosukeTzy`)
 			if (!isPremium && global.db.data.users[m.sender].limit < 1) return newReply(mess.endLimit) // respon ketika limit habis
             db.data.users[m.sender].limit -= 2 // -1 limit
 			newReply(mess.wait)
-			conn.sendMessage(m.chat, { image: { url: `https://api.lolhuman.xyz/api/photooxy1/${command}?apikey=${apikey}&text=${args}`}, caption: `Created By AdrianTzy\n\n Type: ${command}\n\nText: ${args}`})
+			conn.sendMessage(m.chat, { image: { url: `https://api.lolhuman.xyz/api/photooxy1/${command}?apikey=${apikey}&text=${args}`}, caption: `Created By YamadaRyosukeTzy\n\n Type: ${command}\n\nText: ${args}`})
 			break
 
     // Text Prome
@@ -2216,11 +2216,11 @@ ${id}`)
 		case 'wolflogo':
 		case 'steel3d':
 		case 'wallgravity':
-			if (args.length == 0) return reply(`Example: ${prefix + command} AdrianTzy`)
+			if (args.length == 0) return reply(`Example: ${prefix + command} YamadaRyosukeTzy`)
 			if (!isPremium && global.db.data.users[m.sender].limit < 1) return newReply(mess.endLimit) // respon ketika limit habis
             db.data.users[m.sender].limit -= 4 // -1 limit
 			newReply(mess.wait)
-			conn.sendMessage(m.chat, { image: { url: `https://api.lolhuman.xyz/api/textprome2/${command}?apikey=${apikey}&text1=${args[0]}&text2=${args[1]}`}, caption: `Created By AdrianTzy\n\n Type: ${command}\n\nText: ${args}`})
+			conn.sendMessage(m.chat, { image: { url: `https://api.lolhuman.xyz/api/textprome2/${command}?apikey=${apikey}&text1=${args[0]}&text2=${args[1]}`}, caption: `Created By YamadaRyosukeTzy\n\n Type: ${command}\n\nText: ${args}`})
 			break
 
         case 'blackpink':
@@ -2255,11 +2255,11 @@ ${id}`)
 		case 'summersand':
 		case 'horrorblood':
 		case 'thunder':
-			if (args.length == 0) return newReply(`Example: ${prefix + command} AdrianTzy`)
+			if (args.length == 0) return newReply(`Example: ${prefix + command} YamadaRyosukeTzy`)
 			if (!isPremium && global.db.data.users[m.sender].limit < 1) return newReply(mess.endLimit) // respon ketika limit habis
             db.data.users[m.sender].limit -= 2 // -1 limit
 			newReply(mess.wait)
-			conn.sendMessage(m.chat, { image: { url: `https://api.lolhuman.xyz/api/textprome/${command}?apikey=${apikey}&text=${args}` }, caption: `Created By AdrianTzy\n\n Type: ${command}\n\nText: ${args}`})
+			conn.sendMessage(m.chat, { image: { url: `https://api.lolhuman.xyz/api/textprome/${command}?apikey=${apikey}&text=${args}` }, caption: `Created By YamadaRyosukeTzy\n\n Type: ${command}\n\nText: ${args}`})
 			break
 	    
 	    case 'akira':
@@ -2448,25 +2448,25 @@ ${id}`)
             case 'logo1':
             if (!isPremium && global.db.data.users[m.sender].limit < 1) return newReply(mess.endLimit)
             db.data.users[m.sender].limit -= 2
-            if (!text) return reply(`Example: ${prefix + command} AdrianTzy`)
+            if (!text) return reply(`Example: ${prefix + command} YamadaRyosukeTzy`)
 			conn.sendMessage(m.chat, { image: { url: `https://api.lolhuman.xyz/api/ephoto1/fpslogo?apikey=${lolhuman}&text=${text}` } })
 			break
 			case 'logo2':
 			if (!isPremium && global.db.data.users[m.sender].limit < 1) return newReply(mess.endLimit)
             db.data.users[m.sender].limit -= 2
-            if (!text) return reply(`Example: ${prefix + command} AdrianTzy`)
+            if (!text) return reply(`Example: ${prefix + command} YamadaRyosukeTzy`)
 			conn.sendMessage(m.chat, { image: { url: `https://api.lolhuman.xyz/api/ephoto1/logogaming?apikey=${lolhuman}&text=${text}` } })
 			break
 			case 'logo3':
 			if (!isPremium && global.db.data.users[m.sender].limit < 1) return newReply(mess.endLimit)
             db.data.users[m.sender].limit -= 2
-            if (!text) return reply(`Example: ${prefix + command} AdrianTzy`)
+            if (!text) return reply(`Example: ${prefix + command} YamadaRyosukeTzy`)
 			conn.sendMessage(m.chat, { image: { url: `https://api.lolhuman.xyz/api/ephoto1/metallogo?apikey=${lolhuman}&text=${text}` } })
 			break
 			case 'logo4':
 			if (!isPremium && global.db.data.users[m.sender].limit < 1) return newReply(mess.endLimit)
             db.data.users[m.sender].limit -= 2
-            if (!text) return reply(`Example: ${prefix + command} AdrianTzy`)
+            if (!text) return reply(`Example: ${prefix + command} YamadaRyosukeTzy`)
 			conn.sendMessage(m.chat, { image: { url: `https://api.lolhuman.xyz/api/textprome/jokerlogo?apikey=${lolhuman}&text=${args[0]}` } })
 			break
             
@@ -2876,7 +2876,7 @@ Lihat list Pesan Dengan ${prefix}listmsg`)
     let anu =`Hello ${pushname}\nI Am ${namabot} a whatsapp bot that can make it easier for you to solve problems with the internet quickly.
 
   ☍ *Mode:* ${conn.public ? 'Public-Mode 👥' : 'Self-Mode 👤'}
-  ☍ *Bailyes:* github:AdrianTzy/Baileys
+  ☍ *Bailyes:* github:YamadaRyosukeTzy/Baileys
   ☍ *Runtime:* ${runtime(process.uptime())}
   ☍ *Total User:* ${Object.keys(global.db.data.users).length}
   ☍ *Total Premium:* ${prem.length}
